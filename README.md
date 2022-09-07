@@ -20,8 +20,8 @@ UCL DSD In a Nutshell - Git version control
 -- delegates can take further training, e.g. DSD, ARC Software Carpentries etc.
 
 # Material
-- Adapt and acknowledge https://swcarpentry.github.io/git-novice/
--- Might require a different story line
+- Suggest use https://github.com/UCL-ARC/dsh_git
+-- Adapted from https://swcarpentry.github.io/git-novice/
 
 # Trainers
 - joint venture DSD and ARC: David W, Jim T, Tom C, Ed L
